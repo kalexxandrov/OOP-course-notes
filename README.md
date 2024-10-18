@@ -1,1 +1,4 @@
-# OOP_course_notes
+Конспекты курсов по ООП на Python.
+
+**Курсы:**
+* https://stepik.org/course/114354/syllabus
